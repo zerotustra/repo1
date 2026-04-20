@@ -1,3 +1,2 @@
-Version 2:
-- learn git
--understand commits
+version 3:
+try downloading certain versions.
